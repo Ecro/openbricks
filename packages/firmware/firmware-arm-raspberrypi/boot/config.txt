@@ -79,8 +79,8 @@
 # to obtain keys visit the shop at http://www.raspberrypi.com
 ################################################################################
 
-decode_MPG2=0xac0ab958
-decode_WVC1=0xbdcbd2bf
+# decode_MPG2=0x00000000
+# decode_WVC1=0x00000000
 # decode_DTS=0x00000000
 # decode_DDP=0x00000000
 
